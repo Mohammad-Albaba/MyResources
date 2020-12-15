@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<!--<item android:drawable="@drawable/moodhappy" android:bottom="20dp" android:right="20dp"/>-->
+<!--<item android:drawable="@drawable/moodhappy" android:bottom="10dp" android:right="10dp" android:left="10dp"/>-->
+<!--<item android:drawable="@drawable/moodhappy" android:top="20dp" android:left="20dp"/>-->
+<item>
+    <bitmap android:src="@drawable/moodimage2" android:gravity="top|right"/>
+</item>
+<item>
+    <bitmap android:src="@drawable/moodimage2" android:gravity="left|bottom"/>
+</item>
+</layer-list>

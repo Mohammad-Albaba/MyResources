@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">أمثلة على الرسيورسيز</string>
+    <string name="hello_world">أهلاً بالعالم!</string>
+    <string name="how_are_you">كيف حالك؟</string>
+    <string name="tittle">العنوان</string>
+    <string name="Name">الاسم</string>
+    <string name="Address">العنوان</string>
+    <string name="Phone_Number">رقم الجوال</string>
+
+</resources>
